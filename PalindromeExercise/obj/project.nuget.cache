@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZGMNn6j5UBEi8zHrYCwGHGhgf7sWbM4+P6WQSxztkgrlmIFoj1f0zeAdZ5EdDic0yT/m5cpNcp66R+vyJ8kJg==",
+  "success": true,
+  "projectFilePath": "/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/PalindromeExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolagazdic/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nikolagazdic/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512",
+    "/Users/nikolagazdic/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

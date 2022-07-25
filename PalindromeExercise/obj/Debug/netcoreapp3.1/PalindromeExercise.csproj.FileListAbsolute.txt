@@ -1,0 +1,14 @@
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.deps.json
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.runtimeconfig.json
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.runtimeconfig.dev.json
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.dll
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/bin/Debug/netcoreapp3.1/PalindromeExercise.pdb
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.csproj.AssemblyReference.cache
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.AssemblyInfoInputs.cache
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.AssemblyInfo.cs
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.csproj.CoreCompileInputs.cache
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.dll
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.pdb
+/Users/nikolagazdic/Desktop/repos_TrueCoders/PalindromeExercise/PalindromeExercise/obj/Debug/netcoreapp3.1/PalindromeExercise.genruntimeconfig.cache
